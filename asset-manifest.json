@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tillsammans/static/css/main.7338871a.chunk.css",
+    "main.js": "/tillsammans/static/js/main.b37345f7.chunk.js",
+    "main.js.map": "/tillsammans/static/js/main.b37345f7.chunk.js.map",
+    "runtime-main.js": "/tillsammans/static/js/runtime-main.418ad885.js",
+    "runtime-main.js.map": "/tillsammans/static/js/runtime-main.418ad885.js.map",
+    "static/js/2.c0e525c4.chunk.js": "/tillsammans/static/js/2.c0e525c4.chunk.js",
+    "static/js/2.c0e525c4.chunk.js.map": "/tillsammans/static/js/2.c0e525c4.chunk.js.map",
+    "index.html": "/tillsammans/index.html",
+    "precache-manifest.7cb559a637fc8fce1af1e0fbcf21bee5.js": "/tillsammans/precache-manifest.7cb559a637fc8fce1af1e0fbcf21bee5.js",
+    "service-worker.js": "/tillsammans/service-worker.js",
+    "static/css/main.7338871a.chunk.css.map": "/tillsammans/static/css/main.7338871a.chunk.css.map",
+    "static/js/2.c0e525c4.chunk.js.LICENSE.txt": "/tillsammans/static/js/2.c0e525c4.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/tillsammans/static/media/47879864691_8f3d2266d0_k.46806124.jpg",
+    "static/media/allatillsammans.PNG": "/tillsammans/static/media/allatillsammans.56a20225.PNG",
+    "static/media/illustration-pointer-med-text.png": "/tillsammans/static/media/illustration-pointer-med-text.a25018cd.png",
+    "static/media/symbol1.png": "/tillsammans/static/media/symbol1.82a12733.png",
+    "static/media/symbol2.png": "/tillsammans/static/media/symbol2.4a912ce2.png",
+    "static/media/symbol3.png": "/tillsammans/static/media/symbol3.fb5c27ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.418ad885.js",
+    "static/js/2.c0e525c4.chunk.js",
+    "static/css/main.7338871a.chunk.css",
+    "static/js/main.b37345f7.chunk.js"
+  ]
+}
